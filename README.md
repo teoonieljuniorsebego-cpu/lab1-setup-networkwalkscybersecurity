@@ -1,1 +1,1 @@
-# lab1-setup-networkwalkscybersecurity
+# NETWORKWALKS-TEO-CYBERSECURIRTY-WK1-LAB-SETUP
